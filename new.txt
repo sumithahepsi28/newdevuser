@@ -5,3 +5,5 @@ github
 jenkins
 
 changes maded
+
+devops semester practical
